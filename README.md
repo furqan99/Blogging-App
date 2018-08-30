@@ -1,2 +1,3 @@
 # Blogging App 
-Blogging App using laravel and vueje 
+Blogging App using laravel and vuejs
+
