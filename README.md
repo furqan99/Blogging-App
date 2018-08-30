@@ -1,2 +1,2 @@
-# Medical-Store-System-
-Medical store system using laravel and vueje 
+# Blogging App 
+Blogging App using laravel and vueje 
